@@ -283,17 +283,17 @@ canvas {
 }
 
 .logo {
-  max-width: 150px;
+  width: 150px;
   display: inline-block;
-  height: auto;
-  background-size: 100%;
+  height: 150px;
   margin: 0 auto;
   position: relative;
   font: 0/0 verdana;
   color: transparent;
   text-shadow: none;
+  background-image: url("https://media.giphy.com/media/1ytmFDosBYMs8/giphy.gif");
+  background-size: cover;
   border-radius: 50%;
-  border: none;
 }
 
 .main-info,
